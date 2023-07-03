@@ -1,0 +1,17 @@
+## Author
+
+-   **Name:** Serena Gong
+-   **Email:** [sxgong2\@illinois.edu](mailto:sxgong2@illinois.edu){.email}
+
+## Purpose
+
+The purpose of this app is to provide a visual for Soccer fans to use when they want to compare the half time goals and full time goals between 2 teams throughout the 2021-2022 year. The app allows you to type in the year you are looking for, and then the app will automatically sort the teams who have played. It will then display the number of goals both teams have obtained at half time, and then at full time. 
+
+## Data
+
+The data pulled is listed below, through Tidy Tuesdays, which are datasets curated by the R community for weekly wrangling, visualization, and analysis practice. Data includes teams playing, date, referee, and stats for home and away side such as fouls, shots, and cards.
+
+
+## References
+
+-   [Tidy Tuesday: Premier League Match Data 2021-2022](https://github.com/rfordatascience/tidytuesday/tree/master/data/2023/2023-04-04)
